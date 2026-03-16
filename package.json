@@ -1,6 +1,6 @@
 {
   "name": "typed-screeps",
-  "version": "3.3.3",
+  "version": "3.4.0",
   "description": "Strong TypeScript declarations for the game Screeps.",
   "repository": "screepers/typed-screeps",
   "types": "./dist/index.d.ts",
@@ -33,7 +33,7 @@
     "lint-staged": "^12.3.8",
     "prettier": "^2.6.2",
     "typescript": "^5.5.0",
-    "typescript-eslint": "^7.16.1"
+    "typescript-eslint": "^8.57.0"
   },
   "lint-staged": {
     "*.{ts,tsx}": [
