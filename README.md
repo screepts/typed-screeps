@@ -1,22 +1,24 @@
+Edge release of [@types/screeps](https://npmjs.com/@types/screeps). This is a fork of the original [typed-screeps](https://github.com/screepts/typed-screeps) repository with automatic publish to npm [@screepts/types](https://www.npmjs.com/package/@screepts/types).
+
 # typed-screeps
 
 > Strong TypeScript declarations for the game Screeps: World.
 
-[![Github action](https://github.com/screepers/typed-screeps/actions/workflows/CI.yml/badge.svg)](https://github.com/screepers/typed-screeps/actions/workflows/CI.yml) [![npm](https://img.shields.io/npm/v/@types/screeps)](https://www.npmjs.com/package/@types/screeps)
+[![Github action](https://github.com/screepts/typed-screeps/actions/workflows/CI.yml/badge.svg)](https://github.com/screepts/typed-screeps/actions/workflows/CI.yml) [![npm](https://img.shields.io/npm/v/@types/screeps)](https://www.npmjs.com/package/@types/screeps)
 
 ## Installation
 
-The type definitions are published on [DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped). To install them, run the following.
+The type definitions are not published on [DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped). To install them, run the following.
 
 ```bash
 # npm
-npm install @types/screeps
+npm install @screepts/types
 
 # yarn
-yarn add @types/screeps
+yarn add @screepts/types
 
 # pnpm
-pnpm add @types/screeps
+pnpm add @screepts/types
 ```
 
 ## Differences from **[Screeps-Typescript-Declarations](https://github.com/screepers/Screeps-Typescript-Declarations)**
